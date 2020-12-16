@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: uk.co.ebay.CukeTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.617 s <<< FAILURE! - in uk.co.ebay.CukeTest
+null on uk.co.ebay.CukeTest(uk.co.ebay.CukeTest)  Time elapsed: 10.324 s  <<< FAILURE!
+java.lang.IllegalArgumentException: InputStream cannot be null
+	at uk.co.ebay.CukeTest.setUp(CukeTest.java:23)
+
